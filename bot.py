@@ -319,4 +319,4 @@ async def add_sword(ctx, sword):
     weapons = get_weapon_data()
 
 
-client.run('OTY3MTA4OTM5NTc5NzkzNDU4.YmLgYw.QKqZP37Ujjub7kiwwVWS5Ep4ieA')
+client.run('token')
